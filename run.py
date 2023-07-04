@@ -1,7 +1,7 @@
 import pyqrcode
 from pyqrcode import QRCode
 
-# سالن ها 
+# -*-*-*-*-*-*-*-*-*-*-*-
 raw_text_ha = "HA"
 i_ha = 1
 zero_ha = "0"
@@ -17,7 +17,7 @@ while i_ha < 15:
     myQR.png(full_path, scale=16)
 
 
-# بی ترک ها 
+# -*-*-*-*-*-*-*-*-*-*-*-
 raw_text_bt = "BT"
 i_bt = 1
 zero_bt = "0"
@@ -33,7 +33,7 @@ while i_bt < 31:
     myQR.png(full_path, scale=16)
 
 
-# ترولی  ها 
+# -*-*-*-*-*-*-*-*-*-*-*- 
 raw_text_tr = "TR"
 i_tr = 1
 zero_two_tr = "00"
