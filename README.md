@@ -1,1 +1,1 @@
-# make_qrcode
+# generate qrcode with python
